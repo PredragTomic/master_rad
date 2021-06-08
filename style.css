@@ -1,0 +1,143 @@
+body {
+  background-color: #101010;
+  width: 1333px;
+  height: 1366.41px;
+}
+
+#left_column {
+  display: flex;
+}
+
+#date_input {
+  height: 50px;
+  margins: 0;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  width: 100%;
+}
+
+#right_column {
+  margin-top: -61px;
+  margin-right: 40px;
+}
+
+#date_input1 {
+  height: 50px;
+  margins: 0;
+  margin-bottom: 10px;
+  margin-left: 53%;
+}
+
+.Date_input {
+  width: 40%;
+}
+
+.DateRangePickerInput {
+  background-color: #1f2630;
+}
+
+.DateInput_input {
+  background-color: #1f2630;
+  color: #7fafdf;
+}
+
+.CalendarMonth_caption {
+  color: #7fafdf;
+}
+
+.DateRangePickerInput_arrow_svg {
+  fill: #2cfec1;
+}
+
+.DateRangePickerInput__withBorder {
+  border: 1px solid #7fafdf;
+}
+
+#tdropdown {
+  width: 300px;
+  display: inline-block;
+}
+
+#t1dropdown {
+  display: inline-block;
+  margin-left: 280px;
+}
+
+.SingleDatePickerInput__withBorder {
+  border: 1px solid #7fafdf;
+}
+
+.SingleDatePicker {
+  margin-right: 321px;
+  margin-top: 1px;
+}
+
+#grafik {
+  margin-bottom: 10px;
+  width: 36%;
+}
+
+#grafik1 {
+  margin-bottom: 10px;
+  width: 36%;
+}
+
+#grafik2 {
+  margin-bottom: 10px;
+  width: 36%;
+}
+
+#grafik3 {
+  margin-bottom: 10px;
+  width: 58%;
+  float: right;
+  margin-right: 3.2%;
+  margin-top: -92.25%;
+}
+
+#tdropdown .VirtualizedSelectFocusedOption {
+  background-color: #7fafdf;
+}
+
+.Select-value {
+  cursor: pointer;
+}
+
+.Select-control {
+  color: #7fafdf !important;
+  height: 48px;
+  border: 1px solid #7fafdf;
+}
+
+.Select-control,
+.Select-input > input {
+  width: 61%;
+}
+
+.Select {
+  color: #7fafdf !important;
+}
+
+.Select-menu-outer {
+  background-color: #1f2630 !important;
+}
+
+.Select div {
+  background-color: #1f2630 !important;
+}
+
+.Select-menu-outer div:hover {
+  background-color: rgba(255, 255, 255, 0.01) !important;
+  cursor: pointer;
+}
+
+.Select-value-label {
+  color: #7fafdf !important;
+}
+
+.Select--single > .Select-control .Select-value,
+.Select-placeholder {
+  padding-left: 10%;
+  line-height: 43px;
+  color: #7fafdf;
+}
