@@ -4,11 +4,11 @@ body {
   height: 1366.41px;
 }
 
-#left_column {
+.left_column {
   display: flex;
 }
 
-#date_input {
+.date_input {
   height: 50px;
   margin: 0;
   margin-bottom: 10px;
@@ -16,12 +16,12 @@ body {
   width: 100%;
 }
 
-#right_column {
+.right_column {
   margin-top: -61px;
   margin-right: 40px;
 }
 
-#date_input1 {
+.date_input1 {
   height: 50px;
   margin: 0;
   margin-bottom: 10px;
@@ -53,12 +53,12 @@ body {
   border: 1px solid #7fafdf;
 }
 
-#tdropdown {
+.tdropdown {
   width: 300px;
   display: inline-block;
 }
 
-#t1dropdown {
+.t1dropdown {
   display: inline-block;
   margin-left: 280px;
 }
@@ -72,22 +72,22 @@ body {
   margin-top: 1px;
 }
 
-#grafik {
+.grafik {
   margin-bottom: 10px;
   width: 36%;
 }
 
-#grafik1 {
+.grafik1 {
   margin-bottom: 10px;
   width: 36%;
 }
 
-#grafik2 {
+.grafik2 {
   margin-bottom: 10px;
   width: 36%;
 }
 
-#grafik3 {
+.grafik3 {
   margin-bottom: 10px;
   width: 58%;
   float: right;
@@ -95,7 +95,7 @@ body {
   margin-top: -92.25%;
 }
 
-#tdropdown .VirtualizedSelectFocusedOption {
+.tdropdown .VirtualizedSelectFocusedOption {
   background-color: #7fafdf;
 }
 
